@@ -17,3 +17,8 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+
+## segun la guia
+
+[En Medium](https://medium.com/@IngRengifo/creando-una-api-rest-con-phoenix-framework-a43969a68f51)
